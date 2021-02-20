@@ -1,14 +1,15 @@
 {
   "expo": {
-    "name": "YourGreatPlaces",
-    "slug": "YourGreatPlaces",
+    "name": "Your Great Places",
+    "slug": "your-great-places",
+    "privacy": "public",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/places.png",
     "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "image": "./assets/places-adaptive.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#171717171717"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
