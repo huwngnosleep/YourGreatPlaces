@@ -1,4 +1,5 @@
-Share the places you like
+Practice React Native devices features
+
 - Loading screen
 ![IMG_5524](https://user-images.githubusercontent.com/73866831/115758073-effc2d00-a3c8-11eb-9d44-edecc6583ee1.PNG)
 
